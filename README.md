@@ -1,0 +1,1 @@
+In this project, I created a simple application to simulate the Knight Rider LED effect using an Arduino board and a for loop. The objective was to create a dynamic lighting pattern that mimics the iconic moving lights from the Knight Rider series.
